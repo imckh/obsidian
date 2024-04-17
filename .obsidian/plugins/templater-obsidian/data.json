@@ -1,0 +1,39 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Plan/Daily Plan",
+      "template": "templates/Daily Plan.md"
+    },
+    {
+      "folder": "Plan/Weekly Plan",
+      "template": "templates/Weekly Plan.md"
+    },
+    {
+      "folder": "cuikaihui/开发/慢查询",
+      "template": "templates/SQL优化.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "templates/Daily Plan.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
