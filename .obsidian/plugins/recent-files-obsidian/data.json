@@ -1,36 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Excel 2024-04-17 11.29.05.sheet",
-      "path": "Excel/Excel 2024-04-17 11.29.05.sheet.md"
+      "basename": "ch3",
+      "path": "post/The-Mythical-Man-Month-zh/docs/ch3.md"
     },
     {
-      "basename": "empty",
-      "path": "post/empty.md"
+      "basename": "2024-04-25",
+      "path": "Plan/Daily Plan/2024-04-25.md"
     },
     {
-      "basename": "任务状态流转-预外呼",
-      "path": "cuikaihui/项目/项目流程梳理/任务状态流转-预外呼.md"
+      "basename": "2024-04-24",
+      "path": "Plan/Daily Plan/2024-04-24.md"
+    },
+    {
+      "basename": "金科代运营二期杂项整理",
+      "path": "cuikaihui/项目/金科代运营/金科代运营二期杂项整理.md"
+    },
+    {
+      "basename": "ch2",
+      "path": "post/The-Mythical-Man-Month-zh/docs/ch2.md"
+    },
+    {
+      "basename": "2024-04-23",
+      "path": "Plan/Daily Plan/2024-04-23.md"
     },
     {
       "basename": "任务状态流转",
       "path": "cuikaihui/项目/项目流程梳理/任务状态流转.md"
     },
     {
+      "basename": "任务状态流转-预外呼",
+      "path": "cuikaihui/项目/项目流程梳理/任务状态流转-预外呼.md"
+    },
+    {
       "basename": "账号信息",
       "path": "test/账号信息.md"
+    },
+    {
+      "basename": "ch1",
+      "path": "post/The-Mythical-Man-Month-zh/docs/ch1.md"
+    },
+    {
+      "basename": "我的配置",
+      "path": "cuikaihui/知识/我的配置.md"
+    },
+    {
+      "basename": "minio",
+      "path": "cuikaihui/工具/minio.md"
+    },
+    {
+      "basename": "2024-04-15 16周",
+      "path": "Plan/Weekly Plan/2024-04-15 16周.md"
+    },
+    {
+      "basename": "README",
+      "path": "post/The-Mythical-Man-Month-zh/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "post/The-Mythical-Man-Month-zh/docs/README.md"
+    },
+    {
+      "basename": "cover",
+      "path": "post/The-Mythical-Man-Month-zh/docs/cover.jpg"
+    },
+    {
+      "basename": "2024-04-22",
+      "path": "Plan/Daily Plan/2024-04-22.md"
+    },
+    {
+      "basename": "2024-04-19",
+      "path": "Plan/Daily Plan/2024-04-19.md"
+    },
+    {
+      "basename": "2024-04-18",
+      "path": "Plan/Daily Plan/2024-04-18.md"
+    },
+    {
+      "basename": "名词解释",
+      "path": "cuikaihui/知识/名词解释.md"
+    },
+    {
+      "basename": "Weekly Plan",
+      "path": "templates/Weekly Plan.md"
+    },
+    {
+      "basename": "Excel 2024-04-17 11.29.05.sheet",
+      "path": "Excel/Excel 2024-04-17 11.29.05.sheet.md"
+    },
+    {
+      "basename": "2024-04-17",
+      "path": "Plan/Daily Plan/2024-04-17.md"
+    },
+    {
+      "basename": "2023-11-24",
+      "path": "Plan/Daily Plan/2023-11-24.md"
     },
     {
       "basename": "未命名",
       "path": "Excel/未命名.md"
     },
     {
-      "basename": "homepage",
-      "path": "cuikaihui/homepage.md"
+      "basename": "empty",
+      "path": "post/empty.md"
     },
     {
-      "basename": "2024-04-17",
-      "path": "Plan/Daily Plan/2024-04-17.md"
+      "basename": "homepage",
+      "path": "cuikaihui/homepage.md"
     },
     {
       "basename": "试用期二次考评2024-04-01",
@@ -69,10 +145,6 @@
       "path": "Excalidraw/Scripts/Downloaded/Connect elements.svg"
     },
     {
-      "basename": "金科代运营二期杂项整理",
-      "path": "cuikaihui/项目/金科代运营/金科代运营二期杂项整理.md"
-    },
-    {
       "basename": "电销授信用信数据使用流程",
       "path": "cuikaihui/项目/项目流程梳理/电销授信用信数据使用流程.md"
     },
@@ -89,20 +161,8 @@
       "path": "Plan/Daily Plan/2024-04-15.md"
     },
     {
-      "basename": "我的配置",
-      "path": "cuikaihui/知识/我的配置.md"
-    },
-    {
-      "basename": "minio",
-      "path": "cuikaihui/工具/minio.md"
-    },
-    {
       "basename": "minio java 文档",
       "path": "cuikaihui/知识/其他/minio java 文档.md"
-    },
-    {
-      "basename": "名词解释",
-      "path": "cuikaihui/知识/名词解释.md"
     },
     {
       "basename": "下载中心定时任务梳理",
@@ -139,66 +199,6 @@
     {
       "basename": "2024-02",
       "path": "Plan/Monthly plan/2024-02.md"
-    },
-    {
-      "basename": "2024-03",
-      "path": "Plan/Monthly plan/2024-03.md"
-    },
-    {
-      "basename": "2024-04",
-      "path": "Plan/Monthly plan/2024-04.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "test/未命名.md"
-    },
-    {
-      "basename": "恒天瑞讯预测外呼系统接口 v1.22",
-      "path": "cuikaihui/项目/项目流程梳理/assets/电销预外呼流程/恒天瑞讯预测外呼系统接口 v1.22.pdf"
-    },
-    {
-      "basename": "2024-03-06",
-      "path": "Plan/Daily Plan/2024-03-06.md"
-    },
-    {
-      "basename": "2024-03-04",
-      "path": "Plan/Daily Plan/2024-03-04.md"
-    },
-    {
-      "basename": "电销权限梳理",
-      "path": "cuikaihui/项目/电销系统/电销权限梳理.md"
-    },
-    {
-      "basename": "2024-02-29",
-      "path": "Plan/Daily Plan/2024-02-29.md"
-    },
-    {
-      "basename": "image-20240229143331148",
-      "path": "cuikaihui/项目/项目流程梳理/assets/电销授信用信数据使用流程/image-20240229143331148.png"
-    },
-    {
-      "basename": "EsaleCreditLoanStatisticsMapper_selectTDayTaskInsert",
-      "path": "cuikaihui/项目/电销系统/慢查询/SQL语句/EsaleCreditLoanStatisticsMapper_selectTDayTaskInsert.md"
-    },
-    {
-      "basename": "开发权限汇总",
-      "path": "cuikaihui/项目/开发权限汇总.md"
-    },
-    {
-      "basename": "IDEA 使用技巧",
-      "path": "cuikaihui/工具/IDEA 使用技巧.md"
-    },
-    {
-      "basename": "电销新人开发环境配置",
-      "path": "cuikaihui/项目/电销新人开发环境配置.md"
-    },
-    {
-      "basename": "短信流程",
-      "path": "cuikaihui/项目/项目流程梳理/短信流程.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Plan/Daily Plan/2024-01-29.md"
     }
   ],
   "omittedPaths": [],
